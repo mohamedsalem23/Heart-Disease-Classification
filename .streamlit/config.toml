@@ -1,0 +1,12 @@
+[client]
+showErrorDetails = true
+
+[logger]
+level = "warning"
+
+[server]
+port = 8501
+headless = true
+runOnSave = true
+fileWatcherType = "none"
+
